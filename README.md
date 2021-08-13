@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhadiyaksa
+- 👋 Hi, I’m Muhamad Adi Yaksa 
 - 👀 I’m interested in programming world especially in web development
 - 🌱 I’m currently learning full stack Javascript (Still Learning react js)
 - 💞️ I’m looking to collaborate on start-up Company
